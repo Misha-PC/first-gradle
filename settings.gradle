@@ -1,0 +1,9 @@
+rootProject.name = 'first-gradle'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+
+include 'demo'
